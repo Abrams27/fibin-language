@@ -1,5 +1,5 @@
 # fibin language
-Simple cpp functional language written with c++ templates.
+A simple functional language written using c++ templates.
 
 --- 
 coauthor: [@Pawel494](https://github.com/Pawel494)
