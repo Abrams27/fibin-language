@@ -1,9 +1,8 @@
-# MIMUW-S3-JNPI-Fibin
-Project for the JNPI class (Languages and Programming Paradigms 1. class) - 1. term 19/20\
-Created with: [Pawel](https://github.com/Pawel494)
-
-# Description
+# fibin language
 Simple cpp functional language written with c++ templates.
+
+--- 
+coauthor: [@Pawel494](https://github.com/Pawel494)
 
 # Semantics
 * Literals `Lit` - only allowed Fibbonaci numbers (non negative): `Fib<0> = 0, Fib<1> = 1 ...`
